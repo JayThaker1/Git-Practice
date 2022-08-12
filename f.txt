@@ -1,3 +1,6 @@
 f file
+<<<<<<< HEAD
 I made this changes first
+=======
+>>>>>>> fd62b3e (Made changes in F)
 Made changes in f after main
